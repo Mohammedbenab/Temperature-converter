@@ -5,10 +5,10 @@ import java.util.Scanner;
 public class testerControle {
 
 	public static void main(String[] args) {
-		System.out.println("##Convertisseur de température##");
+		System.out.println("##Convertisseur de tempÃ©rature##");
 		Scanner sc = new Scanner(System.in);
 		char reponse = 'O';
-		int choixMenu = 0;
+		int choixMenu;
 		int valeur;
 		
 		while (reponse == 'O'){
@@ -44,7 +44,7 @@ public class testerControle {
 						  
 						  }
 					}
-		System.out.println("Merci et à bientôt !");
+		System.out.println("Merci et Ã  bientÃ´t !");
 
 		}
 		 
